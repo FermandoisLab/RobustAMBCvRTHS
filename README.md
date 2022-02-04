@@ -2,7 +2,11 @@
 
 ## Description
 
-This repository contains five applications of adaptive dynamic compensators for virtual real-time hybrid simulation problems. The adaptive compensators corresponds to two variations of adaptive feedforward controllers. The Adaptive model-based compensator (AMB) consists in the inverse of the control plant in continuous form, but implemented with finite difference to achieve a causal controller. The AMB utilizes gradient adaptive law to identify the control plant model parameters and therefore requires the calibration of an adaptive gain matrix Gamma.
+This repository contains the source code and data generated in the publication:
+
+- Cristobal Galmez and Gaston Fermandois (2022). "Robust adaptive model-based compensator for the real-time hybrid simulation benchmark". (Submitted for publication in *Structural Control and Health Monitoring*.) 
+
+The Adaptive model-based compensator (AMB) consists in the inverse of the control plant in continuous form, but implemented with finite difference to achieve a causal controller. The AMB utilizes gradient adaptive law to identify the control plant model parameters and therefore requires the calibration of an adaptive gain matrix Gamma.
 
 <img src="figures/ControlArchitecture.jpg" alt="Compensation" width="800"/>
 
