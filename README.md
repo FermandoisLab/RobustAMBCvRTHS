@@ -1,4 +1,4 @@
-# AdaptiveCompensation_CGGalmez
+# Robust adaptive model-based compensator for the real-time hybrid simulation benchmark
 
 ## Description
 
