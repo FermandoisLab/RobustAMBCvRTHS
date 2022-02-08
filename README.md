@@ -1,5 +1,7 @@
 # Robust adaptive model-based compensator for the real-time hybrid simulation benchmark
 
+[![DOI](https://zenodo.org/badge/455587594.svg)](https://zenodo.org/badge/latestdoi/455587594)
+
 ## Description
 
 This repository contains the source code and data generated in the publication:
