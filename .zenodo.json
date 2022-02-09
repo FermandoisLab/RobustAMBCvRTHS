@@ -1,0 +1,22 @@
+{
+    "creators": [
+        {
+            "affiliation": "Universidad Tecnica Federico Santa Maria", 
+            "name": "Cristobal Galmez"
+        },
+        {
+            "affiliation": "Universidad Tecnica Federico Santa Maria", 
+            "name": "Gaston Fermandois",
+            "orcid": "0000-0001-7320-7991"
+        }
+    ],
+    "keywords": [
+        "Real-time hybrid simulation",
+        "Adaptive compensation",
+        "Robustness",
+        "Optimization",
+        "Benchmark problem"
+  ],
+  "license": "mit-license",
+  "upload_type": "software"
+}
